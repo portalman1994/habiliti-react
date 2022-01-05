@@ -1,7 +1,7 @@
 export const FEATURES = [
     {
         id: 0,
-        image: '/assets/images/track.png',
+        image: '/habiliti-react/assets/images/track.png',
         title: {
             short: 'Track',
             detailed: 'A'
@@ -13,7 +13,7 @@ export const FEATURES = [
     },
     {
         id: 1,
-        image: '/assets/images/progress.jpg',
+        image: '/habiliti-react/assets/images/progress.jpg',
         title: {
             short: 'Progress',
             detailed: 'B'
@@ -25,7 +25,7 @@ export const FEATURES = [
     },
     {
         id: 2,
-        image: '/assets/images/remind.png',
+        image: '/habiliti-react/assets/images/remind.png',
         title: {
             short: 'Remind',
             detailed: 'C'

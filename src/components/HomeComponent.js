@@ -23,7 +23,11 @@ function Home(props) {
             </div>
             <div className='row'>
                 <div className='col-md mt-4 mb-4 text-center'>
+<<<<<<< HEAD
                     <Link to='/habiliti'><Button>Try Habiliti</Button></Link>
+=======
+                    <Button><Link to='/demo'>Try Habiliti</Link></Button>
+>>>>>>> a6887970e05e0432dcb9cc12f6c13eb0a39c2b5c
                 </div>
             </div>
         </div>
@@ -34,7 +38,11 @@ function Home(props) {
 function RenderCard({item}) {
     return (
         <Card>
+<<<<<<< HEAD
             <CardImg src={item.image} alt={item.title.short}/>
+=======
+            <CardImg src={item.image} alt={item.title.short} />
+>>>>>>> a6887970e05e0432dcb9cc12f6c13eb0a39c2b5c
             <CardBody>
                 <CardTitle>{item.title.short}</CardTitle>
                 <CardText>{item.description.short}</CardText>

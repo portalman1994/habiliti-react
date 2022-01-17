@@ -1,6 +1,11 @@
 import React, { Component } from "react";
 import { Col, Container, Row, Table } from "reactstrap";
+<<<<<<< HEAD
 
+=======
+import Footer from "./FooterComponent";
+import Header from "./HeaderComponent";
+>>>>>>> a6887970e05e0432dcb9cc12f6c13eb0a39c2b5c
 
 class Demo extends Component {
     constructor(props) {

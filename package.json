@@ -4,6 +4,7 @@
   "homepage": "https://portalman1994.github.io/habiliti-react",
   "private": true,
   "dependencies": {
+<<<<<<< HEAD
     "@babel/core": "^7.16.7",
     "@babel/plugin-syntax-flow": "^7.16.7",
     "@babel/plugin-transform-react-jsx": "^7.16.7",
@@ -30,6 +31,23 @@
     "react-select": "^5.2.1",
     "reactstrap": "^9.0.1",
     "typescript": "^4.5.4",
+=======
+    "@testing-library/jest-dom": "^5.14.1",
+    "@testing-library/react": "^12.0.0",
+    "@testing-library/user-event": "^13.2.1",
+    "bootstrap": "4.5.2",
+    "font-awesome": "4.7.0",
+    "gh-pages": "^3.2.3",
+    "react": "^17.0.2",
+    "react-dom": "^17.0.2",
+    "react-popper": "1.3.6",
+    "react-redux": "7.2.0",
+    "react-redux-form": "1.16.14",
+    "react-router-dom": "5.2.0",
+    "react-scripts": "5.0.0",
+    "reactstrap": "8.5.1",
+    "redux": "4.0.5",
+>>>>>>> a6887970e05e0432dcb9cc12f6c13eb0a39c2b5c
     "web-vitals": "^2.1.0"
   },
   "scripts": {

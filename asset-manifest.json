@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/habiliti-react/static/css/main.becffbde.css",
-    "main.js": "/habiliti-react/static/js/main.1a637ab7.js",
+    "main.js": "/habiliti-react/static/js/main.a5dc2687.js",
     "static/js/787.eb794fc8.chunk.js": "/habiliti-react/static/js/787.eb794fc8.chunk.js",
     "index.html": "/habiliti-react/index.html",
     "main.becffbde.css.map": "/habiliti-react/static/css/main.becffbde.css.map",
-    "main.1a637ab7.js.map": "/habiliti-react/static/js/main.1a637ab7.js.map",
+    "main.a5dc2687.js.map": "/habiliti-react/static/js/main.a5dc2687.js.map",
     "787.eb794fc8.chunk.js.map": "/habiliti-react/static/js/787.eb794fc8.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.becffbde.css",
-    "static/js/main.1a637ab7.js"
+    "static/js/main.a5dc2687.js"
   ]
 }

@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/static/css/main.becffbde.css",
-    "main.js": "/static/js/main.c3a0924b.js",
-    "static/js/787.eb794fc8.chunk.js": "/static/js/787.eb794fc8.chunk.js",
-    "index.html": "/index.html",
-    "main.becffbde.css.map": "/static/css/main.becffbde.css.map",
-    "main.c3a0924b.js.map": "/static/js/main.c3a0924b.js.map",
-    "787.eb794fc8.chunk.js.map": "/static/js/787.eb794fc8.chunk.js.map"
+    "main.css": "/habiliti-react/static/css/main.becffbde.css",
+    "main.js": "/habiliti-react/static/js/main.f0a2cb35.js",
+    "static/js/787.eb794fc8.chunk.js": "/habiliti-react/static/js/787.eb794fc8.chunk.js",
+    "index.html": "/habiliti-react/index.html",
+    "main.becffbde.css.map": "/habiliti-react/static/css/main.becffbde.css.map",
+    "main.f0a2cb35.js.map": "/habiliti-react/static/js/main.f0a2cb35.js.map",
+    "787.eb794fc8.chunk.js.map": "/habiliti-react/static/js/787.eb794fc8.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.becffbde.css",
-    "static/js/main.c3a0924b.js"
+    "static/js/main.f0a2cb35.js"
   ]
 }
